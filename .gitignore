@@ -130,3 +130,6 @@ dmypy.json
 
 .idea/
 .history/
+
+#virtual env file config
+venv/
