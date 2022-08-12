@@ -133,3 +133,4 @@ dmypy.json
 
 #virtual env file config
 venv/
+.DS_Store
